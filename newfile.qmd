@@ -1,0 +1,5 @@
+---
+title: '`newfile.qmd` to add to `_quarto.yml'
+---
+
+File to demonstrate making this appear in site by adding it to `_quarto.yml`
