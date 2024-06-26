@@ -8,8 +8,8 @@ execute:
 website: 
   page-navigation: true
   title: "Quarto Contributing Clinic" 
-  site-url: https://openscapes.github.io/quarto-clinic/ 
-  repo-url: https://github.com/Openscapes/quarto-clinic 
+  site-url: https://nasa-openscapes.github.io/quarto-clinic 
+  repo-url: https://github.com/NASA-Openscapes/quarto-clinic  
   repo-actions: [edit, source, issue]
   
   page-footer:
@@ -25,7 +25,7 @@ website:
         href: https://openscapes.org
         text: "Openscapes.org"
       - icon: github
-        href: https://github.com/Openscapes/quarto-clinic
+        href: https://github.com/NASA-Openscapes/quarto-clinic
         text: "Quarto Contributing Clinic repo"
 
     style: "docked"
