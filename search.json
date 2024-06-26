@@ -124,7 +124,7 @@
     "href": "part2-github.html#regroup-wrap-up",
     "title": "Part 2: GitHub workflow",
     "section": "Regroup & Wrap up",
-    "text": "Regroup & Wrap up\n\nReview our updated site\nhttps://openscapes.github.io/quarto-clinic/demo\n\n\nTidying up\nGood practices to tidy your workspace & save unneccessary storage costs:\nFrom GitHub Browser:\n\nDelete branch on GitHub Browser\n\nFrom JupyterHub:\n\nDelete stefanie branch from the Git plugin\nDelete quarto-clinic folder from terminal cd .. then rm -rf quarto clinic\nShut down Hub from File menu",
+    "text": "Regroup & Wrap up\n\nReview our updated site\nhttps://nasa-openscapes.github.io/quarto-clinic/demo\n\n\nTidying up\nGood practices to tidy your workspace & save unneccessary storage costs:\nFrom GitHub Browser:\n\nDelete branch on GitHub Browser\n\nFrom JupyterHub:\n\nDelete stefanie branch from the Git plugin\nDelete quarto-clinic folder from terminal cd .. then rm -rf quarto clinic\nShut down Hub from File menu",
     "crumbs": [
       "Part 2: GitHub workflow"
     ]
