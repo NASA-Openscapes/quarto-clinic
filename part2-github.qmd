@@ -105,7 +105,7 @@ Steps:
 
 ### Review our updated site
 
-<https://openscapes.github.io/quarto-clinic/demo>
+<https://nasa-openscapes.github.io/quarto-clinic/demo>
 
 ### Tidying up
 
