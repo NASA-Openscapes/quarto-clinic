@@ -33,7 +33,7 @@ Additional attributes like image size, alt text, and linking the image to a URL,
 
 ## Stefanie
 
-For your first edit, you could fix this typo and preview how it will look in the site.
+For your first edit, you could fix this typo and preview how it will look in the site, once the site is rendered.
 
 ## Alexis
 
